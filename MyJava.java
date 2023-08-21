@@ -1,1 +1,3 @@
-MyJava
+public class MyJava{
+
+}
